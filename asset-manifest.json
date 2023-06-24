@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.66317cae.css",
-    "main.js": "/static/js/main.a10a59e8.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/ittiam.png": "/static/media/ittiam.7d4b06ed4555bfb85098.png",
-    "static/media/about.png": "/static/media/about.5a40f5449357647f2537.png",
-    "static/media/tamu.png": "/static/media/tamu.5a40f5449357647f2537.png",
-    "static/media/chat.png": "/static/media/chat.1f19fcea49a6ae4ef6e7.png",
-    "static/media/p3.jpeg": "/static/media/p3.b7b94901cb767a14f229.jpeg",
-    "static/media/fridge.png": "/static/media/fridge.2460f96fccea967b6f7e.png",
-    "static/media/vote.png": "/static/media/vote.98218b2f1917d0dac42e.png",
-    "static/media/pvr_.pdf": "/static/media/pvr_.73c447028fecbcd8e1d2.pdf",
-    "static/media/nitrr.png": "/static/media/nitrr.53d3b2233f4ae64cc42d.png",
-    "static/media/Huawei.png": "/static/media/Huawei.79b72ec6ea0a19be4b12.png",
-    "static/media/crm.png": "/static/media/crm.d74823915be4cd46e1e7.png",
-    "static/media/v.png": "/static/media/v.502720641e0535242f02.png",
-    "static/media/pre.svg": "/static/media/pre.c68b110d7a2d076dacd6.svg",
-    "index.html": "/index.html",
-    "main.66317cae.css.map": "/static/css/main.66317cae.css.map",
-    "main.a10a59e8.js.map": "/static/js/main.a10a59e8.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/portfolio-domain/static/css/main.c5ea982e.css",
+    "main.js": "/portfolio-domain/static/js/main.ec32fc2c.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio-domain/static/js/787.1ed0c42c.chunk.js",
+    "static/media/ittiam.png": "/portfolio-domain/static/media/ittiam.7d4b06ed4555bfb85098.png",
+    "static/media/about.png": "/portfolio-domain/static/media/about.5a40f5449357647f2537.png",
+    "static/media/tamu.png": "/portfolio-domain/static/media/tamu.5a40f5449357647f2537.png",
+    "static/media/chat.png": "/portfolio-domain/static/media/chat.1f19fcea49a6ae4ef6e7.png",
+    "static/media/p3.jpeg": "/portfolio-domain/static/media/p3.b7b94901cb767a14f229.jpeg",
+    "static/media/fridge.png": "/portfolio-domain/static/media/fridge.2460f96fccea967b6f7e.png",
+    "static/media/vote.png": "/portfolio-domain/static/media/vote.98218b2f1917d0dac42e.png",
+    "static/media/pvr_.pdf": "/portfolio-domain/static/media/pvr_.73c447028fecbcd8e1d2.pdf",
+    "static/media/nitrr.png": "/portfolio-domain/static/media/nitrr.53d3b2233f4ae64cc42d.png",
+    "static/media/Huawei.png": "/portfolio-domain/static/media/Huawei.79b72ec6ea0a19be4b12.png",
+    "static/media/crm.png": "/portfolio-domain/static/media/crm.d74823915be4cd46e1e7.png",
+    "static/media/v.png": "/portfolio-domain/static/media/v.502720641e0535242f02.png",
+    "static/media/pre.svg": "/portfolio-domain/static/media/pre.c68b110d7a2d076dacd6.svg",
+    "index.html": "/portfolio-domain/index.html",
+    "main.c5ea982e.css.map": "/portfolio-domain/static/css/main.c5ea982e.css.map",
+    "main.ec32fc2c.js.map": "/portfolio-domain/static/js/main.ec32fc2c.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio-domain/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.66317cae.css",
-    "static/js/main.a10a59e8.js"
+    "static/css/main.c5ea982e.css",
+    "static/js/main.ec32fc2c.js"
   ]
 }
